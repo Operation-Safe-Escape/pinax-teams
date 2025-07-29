@@ -83,7 +83,7 @@ setup(
         "pinax-invitations>=8.0.0",
         "python-slugify>=7.0.0",
         "Pillow>=9.3.0",
-        "django-user-accounts>=3.2.0"
+        "django-user-accounts>=3.2.0",
     ],
     tests_require=[
         "django-test-plus>=1.0.22",

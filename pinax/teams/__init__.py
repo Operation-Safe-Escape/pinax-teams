@@ -1,5 +1,4 @@
-import pkg_resources
 
-__version__ = pkg_resources.get_distribution("pinax-teams").version
+__version__ = "3.0.0"
 
 default_app_config = "pinax.teams.apps.AppConfig"
